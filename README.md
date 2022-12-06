@@ -6,11 +6,11 @@ An Excellent OSINT tool to get information of any ip address. All details are ex
 All usage procedures dhould be performed to not to get any error
 
 # Usage
-{-}     apt install python3
-{-}     git clone https://github.com/CPScript/IP-Rover
-{-}     cd IP_Rover
-{-}     ls
-{-}     pip install -r requirements.txt
-{-}     python3 finder.py
+{-}.     apt install python3
+{-}.     git clone https://github.com/CPScript/IP-Rover
+{-}.     cd IP_Rover
+{-}.     ls
+{-}.     pip install -r requirements.txt
+{-}.     python3 finder.py
 
 Enjoy!!!
