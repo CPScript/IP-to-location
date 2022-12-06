@@ -11,29 +11,48 @@ WB = Back.RED
 
 
 logo = f"""
- ▄█     ▄███████▄                                            
-███    ███    ███                                            
-███▌   ███    ███                                            
-███▌   ███    ███                                            
-███▌ ▀█████████▀                                             
-███    ███                                                   
-███    ███                                                   
-█▀    ▄████▀                                                 
-                                                             
-   ▄████████  ▄██████▄   ▄█    █▄     ▄████████    ▄████████ 
-  ███    ███ ███    ███ ███    ███   ███    ███   ███    ███ 
-  ███    ███ ███    ███ ███    ███   ███    █▀    ███    ███ 
- ▄███▄▄▄▄██▀ ███    ███ ███    ███  ▄███▄▄▄      ▄███▄▄▄▄██▀  
-▀▀███▀▀▀▀▀   ███    ███ ███    ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀    
-▀███████████ ███    ███ ███    ███   ███    █▄  ▀███████████ 
-  ███    ███ ███    ███ ███    ███   ███    ███   ███    ███ 
-  ███    ███  ▀██████▀   ▀██████▀    ██████████   ███    ███ 
-  ███    ███                                      ███    ███ 
-            {y}<{w}/{y}> {c}Author: {w}Saad Khan {r}|{g} Cyber-Dioxide    
 
-{w}<{y}/{w}> {GB}{w}Instagram : @cyber_dioxide {Back.RESET}
-{w}<{y}/{w}> {YB}{w}Coding Instagram : @cyber_dioxide_ {Back.RESET}
-{w}<{y}/{w}> {WB}{w}Github: Cyber-Dioxide  {Back.RESET}                                                                                                     
+
+                                       ...
+                                    ;::::;
+                                  ;::::; :;
+                                ;:::::'   :;
+                               ;:::::;     ;.
+                             ,:::::'       ;           OOO
+                             ::::::;       ;          OOOOO
+                             ;:::::;       ;         OOOOOOOO
+                            ,;::::::;     ;'         / OOOOOOO
+                          ;:::::::::`. ,,,;.        /  / DOOOOOO
+                        .';:::::::::::::::::;,     /  /     DOOOO
+                       ,::::::;::::::;;;;::::;,   /  /        DOOO
+ ▄█     ▄███████▄     ;`::::::`'::::::;;;::::: ,#/  /          DOOO                                        
+███    ███    ███    :`:::::::`;::::::;;::: ;::#  /            DOOO                                          
+███▌   ███    ███    ::`:::::::`;:::::::: ;::::# /              DOO                                        
+███▌   ███    ███    `:`:::::::`;:::::: ;::::::#/               DOO                                       
+███▌ ▀█████████▀     :::`:::::::`;; ;:::::::::##                OO                                       
+███    ███           ::::`:::::::`;::::::::;:::#                OO                                        
+███    ███           `:::::`::::::::::::;'`:;::#                O                                       
+█▀    ▄████▀          `:::::`::::::::;' /  / `:#                                        
+                       ::::::`:::::;'  /  /   `# 
+██████╗ ███████╗ █████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗
+██████╔╝█████╗  ███████║██████╔╝█████╗  ██████╔╝
+██╔══██╗██╔══╝  ██╔══██║██╔═══╝ ██╔══╝  ██╔══██╗ {Back.RESET}
+██║  ██║███████╗██║  ██║██║     ███████╗██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
+            {y}[{w}-{y}] {c}Author: {w}CPScript {r}|{g}    
+
+{w}<{y}/{w}> {GB}{w}Github : CPScript {Back.RESET}
+{w}<{y}/{w}> {GB}{w}About : IP Address info Grabber {Back.RESET}  
+{w}<{y}/{w}> {w}Made useing Python {Back.RESET}  
+                           ▄▄▀█▄   ▄       ▄     
+                           ▀▀▀██  ███     ███    
+                            ▄██▀ █████   █████   
+                          ███▀▄███ ███ ███ ███ ▄
+                          ▀█████▀   ▀███▀   ▀██▀
+
+
+
 """
 c = colors
 try:
@@ -49,9 +68,9 @@ def banner():
 def banner2():
 
 
-    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @cyber_dioxide ", "- " * 4 + c.ran + "|")
-    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] Follow me on Instagram @cyber_dioxide_ ", "- " * 4+c.ran + "|")
-    print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] Github: https://github.com/Cyber-Dioxide/ ", "- " * 3+c.ran + "|")
+    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, "  [+] About CPScript ", "- " * 4 + c.ran + "|")
+    print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] CPS is a coder that works on Networking, Malware, and Hacks ", "- " * 4+c.ran + "|")
+    print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] You can find more here--> https://github.com/CPScript/", "- " * 3+c.ran + "|")
     print(c.ran + "\n"+ "|" + "*" * 60+c.ran + "|")
 
 def clear():
