@@ -12,7 +12,7 @@ banner()
 
 def program():
 
-    ip = input(c.ran + "[!] Enter target ip: " +c.ran)
+    ip = input(c.ran + "[!] Enter IP address: " +c.ran)
     location = ipapi.location(ip)
 
     for k , v in location.items():
