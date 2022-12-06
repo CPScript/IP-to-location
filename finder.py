@@ -12,7 +12,7 @@ banner()
 
 def program():
 
-    ip = input(c.ran + "Enter target ip: " +c.ran)
+    ip = input(c.ran + "[!] Enter target ip: " +c.ran)
     location = ipapi.location(ip)
 
     for k , v in location.items():
@@ -24,7 +24,7 @@ no = ['n' , 'no']
 cont = ""
 while cont not in no:
     program()
-    cont = input(c.lg + "Do you want to continue? [y/n]")
+    cont = input(c.lg + "[?] Do you want to continue? [y/n]")
     if cont in no:
         clear()
         banner2()
