@@ -1,6 +1,9 @@
 import ipapi
 from setup.banner import banner , banner2 , clear
 from files import colors
+import socket    
+hostname = socket.gethostname()    
+IPAddr = socket.gethostbyname(hostname)
 
 
 c = colors
@@ -12,7 +15,9 @@ banner()
 
 def program():
 
-    ip = input(c.ran + "Enter target ip: " +c.ran)
+    print("[!] Your OS: " + hostname)
+    print("[!] Your IPv4 Address: " + IPAddr)
+    ip = input(c.ran + "[?] Enter  IP address: " +c.ran)
     location = ipapi.location(ip)
 
     for k , v in location.items():
