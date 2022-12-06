@@ -46,7 +46,7 @@ logo = f"""
             {y}[{w}-{y}] {c}Author: {w}CPScript {r}|{g}    
 
 {w}<{y}/{w}> {GB}{w}Github : CPScript {Back.RESET}
-{w}<{y}/{w}> {YB}{w}About : This isn't ment for the public...   yet {Back.RESET}                                                                                                    
+{w}<{y}/{w}> {YB}{w}About : IP Address info Grabber   yet {Back.RESET}                                                                                                    
 """
 c = colors
 try:
