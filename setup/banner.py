@@ -40,10 +40,16 @@ logo = f"""
 ██╔══██╗██╔══╝  ██╔══██║██╔═══╝ ██╔══╝  ██╔══██╗ {Back.RESET}
 ██║  ██║███████╗██║  ██║██║     ███████╗██║  ██║
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
- {y}[{w}-{y}] {c}Author: {w}CPScript {r}|{g}    
+            {y}[{w}-{y}] {c}Author: {w}CPScript {r}|{g}    
 
 {w}<{y}/{w}> {GB}{w}Github : CPScript {Back.RESET}
-{w}<{y}/{w}> {YB}{w}About : IP Address info Grabber   yet {Back.RESET}                                                                                                    
+{w}<{y}/{w}> {w}About : IP Address info Grabber {Back.RESET}  
+{w}Made useing Python {Back.RESET}  
+▄▄▀█▄   ▄       ▄     
+▀▀▀██  ███     ███    
+ ▄██▀ █████   █████   
+███▀▄███ ███ ███ ███ ▄
+▀█████▀   ▀███▀   ▀██▀
 """
 c = colors
 try:
