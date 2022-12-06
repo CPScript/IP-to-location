@@ -62,7 +62,7 @@ def banner():
 def banner2():
 
 
-    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] About CPScript ", "- " * 4 + c.ran + "|")
+    print(c.ran,"\n" + "|"+ Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, "  [+] About CPScript ", "- " * 4 + c.ran + "|")
     print(c.ran, "\n" + "|"+ Style.BRIGHT + Fore.LIGHTYELLOW_EX, "- " * 4, " [+] CPS is a coder that works on Networking, Malware, and Hacks ", "- " * 4+c.ran + "|")
     print(c.ran , "\n"+ "|"+ Style.BRIGHT + Fore.LIGHTRED_EX, "- " * 4, "[+] You can find more here--> https://github.com/CPScript/", "- " * 3+c.ran + "|")
     print(c.ran + "\n"+ "|" + "*" * 60+c.ran + "|")
