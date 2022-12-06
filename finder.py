@@ -15,8 +15,9 @@ banner()
 
 def program():
     
-    print(" Your IPv4 Address: " + IPAddr)
-    ip = input(c.ran + "[!] Enter IP address: " +c.ran)
+    print("[!] Your OS: " + hostname)
+    print("[!] Your IPv4 Address: " + IPAddr)
+    ip = input(c.ran + "[?] Enter IP address: " +c.ran)
     location = ipapi.location(ip)
 
     for k , v in location.items():
