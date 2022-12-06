@@ -44,12 +44,12 @@ logo = f"""
 
 {w}<{y}/{w}> {GB}{w}Github : CPScript {Back.RESET}
 {w}<{y}/{w}> {GB}{w}About : IP Address info Grabber {Back.RESET}  
-{w}Made useing Python {Back.RESET}  
-▄▄▀█▄   ▄       ▄     
-▀▀▀██  ███     ███    
- ▄██▀ █████   █████   
-███▀▄███ ███ ███ ███ ▄
-▀█████▀   ▀███▀   ▀██▀
+{w}<{y}/{w}> {w}Made useing Python {Back.RESET}  
+                           ▄▄▀█▄   ▄       ▄     
+                           ▀▀▀██  ███     ███    
+                            ▄██▀ █████   █████   
+                          ███▀▄███ ███ ███ ███ ▄
+                          ▀█████▀   ▀███▀   ▀██▀
 
 
 
