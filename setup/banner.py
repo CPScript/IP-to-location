@@ -42,17 +42,18 @@ logo = f"""
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
             {y}[{w}-{y}] {c}Author: {w}CPScript {r}|{g}    
 
-{w}<{y}/{w}> {GB}{w}Github : CPScript {Back.RESET}
-{w}<{y}/{w}> {GB}{w}About : IP Address info Grabber {Back.RESET}  
-{w}<{y}/{w}> {w}Made useing Python {Back.RESET}  
-                           ▄▄▀█▄   ▄       ▄     
-                           ▀▀▀██  ███     ███    
-                            ▄██▀ █████   █████   
-                          ███▀▄███ ███ ███ ███ ▄
-                          ▀█████▀   ▀███▀   ▀██▀
+{w}<{y}/{w}> {GB}{w}[\]About: IPv4 Info Grabber  {Back.RESET}
+{w}<{y}/{w}> {GB}{w}[/]MORE: https://Github.com/CPScript {Back.RESET}  
 
 
 
+{r}\\
+{w}||
+{w}||
+{g}|| Just as a warning, CPScript is not responsible for what the user does with this tool.
+{w}||
+{w}||
+{r}/
 """
 c = colors
 try:
