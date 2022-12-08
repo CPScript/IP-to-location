@@ -12,12 +12,12 @@ Reaper is a Python tool that Shows you all information on an IPv4 or IPv6 Addres
 # How to Use
 ## Copy and paist this Code into the terminal.
 
-1.     apt install python3
-2.     git clone https://github.com/CPScript/Reaper
-3.     cd IP_Rover
-4.     ls
-5.     pip install -r requirements.txt
-6.     python3 finder.py
+apt install python3
+git clone https://github.com/CPScript/Reaper
+cd IP_Rover
+ls
+pip install -r requirements.txt
+python3 finder.py
 
 # images of tool
 
