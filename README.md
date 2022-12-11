@@ -19,9 +19,15 @@ Reaper is a Python tool that Shows you all information on an IPv4 or IPv6 Addres
 5.       pip install -r requirements.txt
 6.       python3 finder.py
 
-# images of tool
 
-## Images
+
+
+# i dont want people to look me up!!!!!!!!!!!
+Can i whitelist yuou???? well i can BUT it will cost 10$... WHY??? idk, im just trying to make some money <3.................TO PAY message me on discord Fe4RLess#0001
+  
+
+
+# images of tool
 
 ![Screenshot 2022-12-06 12 28 17 AM](https://user-images.githubusercontent.com/83523587/205824424-f6fe648a-aaf8-4dd3-9b96-be9f23c9c42e.png)
 
