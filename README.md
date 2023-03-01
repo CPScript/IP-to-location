@@ -33,17 +33,8 @@ Can i whitelist yuou???? well i can BUT it will cost 10$... WHY??? idk, im just 
 
 ![Screenshot 2022-12-06 12 27 46 AM](https://user-images.githubusercontent.com/83523587/205824510-688b6081-ec10-4176-a6b1-6e4c502487bc.png)
 
-## beta images
-
-![Screenshot 2022-12-05 7 53 17 PM](https://user-images.githubusercontent.com/83523587/205780015-c936a384-ad45-4514-ae96-4c03cdc1e615.png)
-
-![Screenshot 2022-12-05 7 53 38 PM](https://user-images.githubusercontent.com/83523587/205780019-663abdea-5014-42bd-ba7d-70839723c9b1.png)
 
 # EXTRAS
  
 Computer Infomation Grabber--> https://github.com/CPScript/Computer-information
 
-# Made for 
-
-#### My DAD
-#### Dani
